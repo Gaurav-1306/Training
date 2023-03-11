@@ -1,0 +1,13 @@
+.module-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .module {
+    flex: 1 1 30%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
