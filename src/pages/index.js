@@ -21,19 +21,6 @@ console.log(YAMLData)
   )
 }
 
-// export const query = graphql`
-//   query {
-//     project {
-//       nodes {
-//         id
-//         name
-//         description
-//         status
-//         repository
-//         webpage
-//       }
-//     }
-//   }
-// `
+
 
 export default IndexPage
